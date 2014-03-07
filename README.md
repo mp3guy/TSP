@@ -5,4 +5,6 @@ Genetic algorithm solution to the travelling sales person problem. Allows plotti
 
 Requires OpenCV and Boost to compile. 
 
-![TSP](http://mp3guy.github.io/img/TSP.png)
+<p align="center">
+  <img src="http://mp3guy.github.io/img/TSP.png" alt="TSP"/>
+</p>
